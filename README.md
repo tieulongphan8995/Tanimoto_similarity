@@ -43,4 +43,4 @@ Example
     display(pair_visualize)
     ```
 ## Result triangle heatmap 
-![screenshot]('Image/triangle.png')
+<img src='/Image/triangle.png'>
