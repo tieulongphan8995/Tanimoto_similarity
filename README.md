@@ -41,6 +41,6 @@ Example
     # 4. Visualize two molecules having best similarity
     pair_visualize = simi.pair_best_similarity()
     display(pair_visualize)
-    ```
+```
 ## Result triangle heatmap 
 <img src='./Image/pair.png'>
