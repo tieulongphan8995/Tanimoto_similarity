@@ -1,6 +1,7 @@
 # Tanimoto_similarity
 Calculate Tanimoto coefficient using different type of molecular fingerprints
-For non-coding users, please visit this website to use: https://huggingface.co/spaces/MedAILab/TanimotoSimilarities
+- For non-coding users, please visit this website to use: https://huggingface.co/spaces/MedAILab/TanimotoSimilarities
+- ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tieulongphan8995/Tanimoto_similarity/blob/main/Tanimito_similarity.ipynb)
 
 ## Requirements
 This module requires the following modules:
