@@ -44,4 +44,4 @@ Example
     ```
 ## Result triangle heatmap 
 
-<img src='/Image/triangle.png'>
+<img src='Image/triangle.png'>
