@@ -43,4 +43,6 @@ Example
     display(pair_visualize)
 ```
 ## Result triangle heatmap 
+<img src='./Image/triangle.png'>
+## Result best similarity
 <img src='./Image/pair.png'>
