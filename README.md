@@ -1,5 +1,12 @@
 # Tanimoto_similarity
 Calculate Tanimoto coefficient using different type of molecular fingerprints
+$$T _{c}(A,B) = \frac{c}{a+b-c}$$
+
+- a: number of features present in molecule A 
+- b: number of features present in molecule B 
+- c: number of features shared by molecules A and B
+
+## Other resources
 - For non-coding users, please visit this website to use: https://huggingface.co/spaces/MedAILab/TanimotoSimilarities
 - To use on Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tieulongphan8995/Tanimoto_similarity/blob/main/Tanimito_similarity.ipynb)
 
