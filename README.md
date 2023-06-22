@@ -43,5 +43,4 @@ Example
     display(pair_visualize)
     ```
 ## Result triangle heatmap 
-
-<img src='https://github.com/tieulongphan8995/Tanimoto_similarity/blob/main/Image/triangle.png'>
+<img src='./Image/pair.png'>
