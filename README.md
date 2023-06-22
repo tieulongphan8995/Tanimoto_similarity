@@ -1,6 +1,27 @@
 # Tanimoto_similarity
 Calculate Tanimoto coefficient using different type of molecular fingerprints
 For non-coding users, please visit this website to use: https://huggingface.co/spaces/MedAILab/TanimotoSimilarities
+
+## Requirements
+This module requires the following modules:
+
+- [RDkit](https://www.rdkit.org/)
+
+## Installation
+Clone this repository to use
+
+## Folder segmentation
+
+Finally the folder structure should look like this:
+
+    Tanimoto_similarity (project root)
+    |__  README.md
+    |__  similarities.py
+    |__  test_smiles.smi
+    |__  Image
+    |__  LICENSE    
+    |......
+
 Example
   ```python
     import pandas as pd
@@ -21,3 +42,5 @@ Example
     pair_visualize = simi.pair_best_similarity()
     display(pair_visualize)
     ```
+## Result triangle heatmap 
+![screenshot](Image/triangle.png)
